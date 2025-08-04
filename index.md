@@ -20,7 +20,7 @@ Previously, I was a **PhD student** within the <a href = 'http://biomathematics.
                                         
 I did an **two-year's apprenticeship** at both [LMRS](http://lmrs.univ-rouen.fr/){:target="\_blank"} (Laboratoire Mathématiques Raphaël Salem) and [LITIS](https://www.litislab.fr/accueil){:target="\_blank"} (Laboratoire d'Infomratique et traitement de l'information et des systèmes). My principle work was to develop mixture models bivariate Negative Binomiale for RNA-seq data. In addition, I developed an R package for the simulation and estimation of Markov and Semi-Markov models and a Shiny application for the processing of qRT-PCR data called [PROqPCR](https://qpcrapp.shinyapps.io/proqpcr/){:target="\_blank"}
 
-[Curriculum Vitae](img/cv_MSautreuil.pdf)
+[Curriculum Vitae](img/cv_MSautreuil_2025.pdf)
 <br>
 
 [Manuscrit](https://tel.archives-ouvertes.fr/tel-03278955) and [Slides of PhD defense](img/soutenance_MSautreuil.pdf)

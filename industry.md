@@ -31,6 +31,35 @@ Development of machine learning (ML) models combined with molecular features to 
 
 --------------------------------------------------------------------------
 --------------------------------------------------------------------------
+<div class="text-center">
+  <h3>  SANOFI | 3 months | Data Scientist </h3>
+    </div>
+
+### CONTEXT
+
+Implement functionality enhancements and bug fixes to MIDAS, a data visualization and consumption application used at the mRNA Center of Excellence.
+
+### PROJECT DETAILS
+
+* The Manufacturing Sciences team manages data relating to pre-clinical manufacturing, clinical manufacturing, and raw materials attributes, and performs data entry and verification of data generated during the manufacturing and testing of material. Once data is entered into the data system, the users access to these data into the application called MIDAS.
+   - My project was to provide faster and improved accessibility to manufacturing data, through the MIDAS application:
+      - List of functional improvements and bug fixes
+          - Download all rows or selected rows (DataTable R package)
+          - Process data bug, and clean up attribute names
+          - Fixing the connection between the process step and the raw materials to enable a better analysis view
+          - Ability to set the limits on the graphs
+          - Ability to drill down into a specific line/batch to show
+      - Code the improvements in Sandbox environment, which will be tested by Manufacturing Sciences prior to being pushed to the Production environment
+
+
+
+ * TECHNICAL ENVIRONMENT: R, RShiny
+
+## Success:
+ - Deliverables: Documentation of new features and improved data visualization MIDAS
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
    
 <div class="text-center">
   <h3>  SANOFI | 12 months | Biomarker statistician </h3>

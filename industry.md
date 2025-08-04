@@ -8,6 +8,31 @@ layout: page
 
 
 <div class="text-center">
+  <h3>  SANOFI | 3 months | Data Scientist </h3>
+    </div>
+
+### CONTEXT
+
+Development of machine learning (ML) models combined with molecular features to characterize and identify novel lipid nanoparticle (LNP) components with enhanced properties, such as efficiency in delivering mRNA to cells (i.e. transfection efficiency), thermostability, and biodegradability.
+
+### PROJECT DETAILS
+
+* Provide an interactive platform (Streamlit application) to explore and visualize lipid data
+   - Develop Generative AI algorithms for new lipid compounds
+   - Integrate molecular dynamics and machine learning projects
+      - Performance evaluation
+      - Writing and Reviewing documentation
+      - Implementation of models into the application
+
+ * TECHNICAL ENVIRONMENT: Python, Streamlit, AWS, S3, Git
+
+## Success:
+   - Deliverables: Streamlit app and documentation
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+   
+<div class="text-center">
   <h3>  SANOFI | 12 months | Biomarker statistician </h3>
     </div>
 

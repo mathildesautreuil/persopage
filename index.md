@@ -24,3 +24,5 @@ I did an **two-year's apprenticeship** at both [LMRS](http://lmrs.univ-rouen.fr/
 <br>
 
 [Manuscrit](https://tel.archives-ouvertes.fr/tel-03278955) and [Slides of PhD defense](img/soutenance_MSautreuil.pdf)
+
+The last science outreach article I wrote, about the use of artificial intelligence in omics to predict patient survival, is available [here](https://efor-group.com/en/the-use-of-artificial-intelligence-in-omics-to-predict-patient-survival/).

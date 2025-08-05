@@ -13,6 +13,8 @@ Previously, I was a PhD student within the <a href = 'http://biomathematics.mics
                                         
 I did an two-year's apprenticeship at both [LMRS](http://lmrs.univ-rouen.fr/){:target="\_blank"} (Laboratoire Mathématiques Raphaël Salem) and [LITIS](https://www.litislab.fr/accueil){:target="\_blank"} (Laboratoire d'Infomratique et traitement de l'information et des systèmes). My principle work was to develop mixture models bivariate Negative Binomiale for RNA-seq data. In addition, I developed an R package for the simulation and estimation of Markov and Semi-Markov models and a Shiny application for the processing of qRT-PCR data called [PROqPCR](https://qpcrapp.shinyapps.io/proqpcr/){:target="\_blank"}
 
+The last science outreach article I wrote, about the use of artificial intelligence in omics to predict patient survival, is available [here](https://efor-group.com/en/the-use-of-artificial-intelligence-in-omics-to-predict-patient-survival/).
+
 Contact information:
 CentraleSupélec - Bouygues building <br/> Office sb.129 <br/> 3 rue Joliot Curie <br/> 91190 Gif-sur-Yvette, France <br/>
 <span class = 'glyphicon glyphicon-envelope'></span><a href = 'mailto:mathilde.sautreuil@centralesupelec.fr'> mathilde(dot)sautreuil(at)centralesupelec(dot)fr</a>

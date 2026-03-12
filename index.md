@@ -10,7 +10,7 @@ layout: page
   <br/>
 
 
-I am currently working **Bioinformatician - Data Scientist** in the Boston area for Soladis Inc. (dba [EFOR group](https://efor-group.com/en/)), a consulting company specializing in life sciences (MedTech, Biotech, and the pharmaceutical industry). In my role, I support the Biomarker division within the Biomarker Statistics department at [Sanofi](https://www.sanofi.us/en/our-company).
+I am currently working **Bioinformatician - Data Scientist** in the Boston area for Soladis Inc. (dba [EFOR group](https://efor-group.com/en/)), a consulting company specializing in life sciences (MedTech, Biotech, and the pharmaceutical industry). In my role, I support the Biomarker division within the Research Data Science (Preclinical + Biomarker) department at [Sanofi](https://www.sanofi.us/en/our-company).
 
 In February 2022, I joined as **engineer** the [BU Omics](https://www.soladisomics.fr/) of [Soladis Group by Efor](https://www.soladis.com/). Soladis is a group specialized in managing projects around data, and the BU Omics handle the bioinformatics and biostatistics analysis of various field data. I work with [Servier](https://www.servier.fr/), an international pharmaceutic group. I aim to support the quantitative pharmacology department.
 

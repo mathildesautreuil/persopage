@@ -8,6 +8,29 @@ layout: page
 
 
 <div class="text-center">
+  <h3>  SANOFI | Data Scientist </h3>
+    </div>
+
+### CONTEXT
+
+Development of advanced data science methodologies to characterize immunogenicity versus reactogenicity in
+mRNA vaccine GLP studies through multi-omics integration and biomarker analysis.
+
+### PROJECT DETAILS
+
+* Multi-Omics Data Analysis: Genomics, transcriptomics, proteomics, and immunological data integration for
+mRNA vaccine characterization
+* Predictive Modeling: ML algorithms for biomarker identification and dose-response modeling in Vaccin research
+* Preclinical biomarker analysis, exploratory statistics, and computational biology for mRNA vaccines
+
+ * TECHNICAL ENVIRONMENT: R
+
+## Success:
+   - Deliverables: GGplot2 plots, PPT presentation
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+<div class="text-center">
   <h3>  SANOFI | 3 months | Data Scientist </h3>
     </div>
 
